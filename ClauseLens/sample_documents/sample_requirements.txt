@@ -1,0 +1,5 @@
+Example requirements (one per line):
+Payment due within 30 days of a valid invoice.
+Termination requires 30 days written notice.
+Liability should be capped at an agreed amount.
+Confidential information must be protected after termination.
